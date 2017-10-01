@@ -2,7 +2,7 @@
  by LSS
 ## Preview
 [Download exe and models for quick test](http://download.csdn.net/download/qq_32408771/10004806)
-![](http://img.blog.csdn.net/20171001122258525)
+![](https://github.com/LSS5773/3Dviewer/blob/master/quick%20preview/preview.gif)
 ## Support file format
 - .wrl
 - .3ds
